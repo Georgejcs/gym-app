@@ -37,7 +37,7 @@ Um aplicativo de musculação que oferecerá rotinas de exercícios, planos de t
   ```
   
 ## Tecnologias Utilizadas
-  1. [React](https://reactnative.dev)
+  1. [React Native](https://reactnative.dev)
   2. [Yarn](https://classic.yarnpkg.com/en/docs/cli/run)
   3. [Node](https://nodejs.org/en)
   4. [Expo](https://docs.expo.dev/get-started/installation/)
